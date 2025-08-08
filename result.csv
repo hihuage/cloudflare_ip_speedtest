@@ -1,11 +1,11 @@
 IP 地址,已发送,已接收,丢包率,平均延迟,下载速度 (MB/s)
-104.17.53.48,HKG,Asia Pacific,Hong Kong,53 ms
-104.19.153.96,HKG,Asia Pacific,Hong Kong,68 ms
-104.17.117.170,HKG,Asia Pacific,Hong Kong,79 ms
-104.19.209.193,HKG,Asia Pacific,Hong Kong,115 ms
-104.17.220.118,HKG,Asia Pacific,Hong Kong,118 ms
-104.16.42.40,SEA,North America,Seattle,160 ms
-104.21.233.90,SEA,North America,Seattle,164 ms
-104.17.37.227,SJC,North America,San Jose,196 ms
-104.16.203.238,SJC,North America,San Jose,197 ms
-104.16.184.100,SJC,North America,San Jose,197 ms
+104.17.53.48,,HKG,Asia Pacific,Hong Kong,53 ms
+104.19.153.96,,HKG,Asia Pacific,Hong Kong,68 ms
+104.17.117.170,,HKG,Asia Pacific,Hong Kong,79 ms
+104.19.209.193,,HKG,Asia Pacific,Hong Kong,115 ms
+104.17.220.118,,HKG,Asia Pacific,Hong Kong,118 ms
+104.16.42.40,,SEA,North America,Seattle,160 ms
+104.21.233.90,,SEA,North America,Seattle,164 ms
+104.17.37.227,,SJC,North America,San Jose,196 ms
+104.16.203.238,,SJC,North America,San Jose,197 ms
+104.16.184.100,,SJC,North America,San Jose,197 ms
